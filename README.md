@@ -1,13 +1,30 @@
-# Book
+## 诗歌
+- [**《维尔的诗》**](https://book.willbc.cn/poetry)：以抒情为主的古诗和现代诗。
 
+## 小说
+- 《游世记》：一代人的鲜明角色；一个人的独特性格。
 
+## 散文
+- [《蒲公英的思绪》](https://book.willbc.cn/prose)：川流不息的思想静止了身心。
 
-| Opus      | Name                                                              | Category                  | Reviewer | Status      |
-| --------- | ----------------------------------------------------------------- | ------------------------- | -------- | ----------- |
-| Op.1      | [Will's Poems](https://git.io/fjYCT)                              | Poetry                    |          | CONTINUOUS  |
-| Op.2      | [The Roc](https://git.io/fjYWA)                                   | Philosophy                |          | CONTINUOUS  |
-| Op.3      | [Tourist](https://git.io/fjYlI)                                   | Fiction                   |          | CONTINUOUS  |
-| Op.4      | [The Thoughts of Dandelion](https://git.io/fjYlG)                 | Prose                     |          | CONTINUOUS  |
-| Op.5 No.1 | [The Complete Human Being](https://git.io/fjYCk)                  | Social Science            |          | IN PROGRESS |
-| Op.5 No.2 | [Implementaion of The Complete Human Being](https://git.io/fjnXd) | Biography, Psychoanalysis |          | IN PROGRESS |
-| Op.6      | [The Complete Musician](https://git.io/fjYCm)                     | Music Theory              |          | TODO        |
+## 哲思
+- 《让风沉浮的鸟》：看到的和听到的都不是事实与真相，基于证据、信息思考后的结论才是。
+
+## 理论
+- **《完全人类理论》**：对人类的认识和开发。
+
+## 传记
+- **《完全人类理论实践》**：记录我是如何克服重重障碍成为一个独立健全的人，附带梦境的详实记录，以及由心理咨询师给我做的完整精神分析记录（暂定将在这本书涉及的所有人死后或征求同意后公开）。可以把它看作是现代版《约翰·克里斯朵夫》的《忏悔录》的《精神分析引论》。
+
+## 作曲
+- 《完全音乐理论》：讨论音乐的设计、产生、传播、接收和影响。涉及物理学的声学、语言学的语音学、认知神经科学的听觉系统、音乐学的音乐美学和作曲技法以及视唱练耳、心理学的音乐心理学和音乐治疗、计算机科学的电子音乐、数据科学的 AI 作曲。
+
+<!-- ## 政治
+- 《公版宣言》：
+公版宣言 Declaration of Publication
+对于一次性创作的思维产品。
+1. 现有和新创造的知识及艺术是免费的且容易获取的。
+2. 任何商业用途都有义务对知识和艺术的创作者进行捐赠回馈。
+3. 减少人获取知识和艺术的成本。
+
+在人类没办法直接共享经历时，每个人都有权成为一个对自身发展成接近完全的人。公版宣言的目的是为了减少一个人在发展过程中的阻碍。 -->
