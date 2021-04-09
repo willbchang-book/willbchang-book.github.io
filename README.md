@@ -1,6 +1,3 @@
-## Literature
-[![willbchang-book/poetry - GitHub](https://gh-card.dev/repos/willbchang-book/poetry.svg)](https://book.willbc.cn/poetry)
-[![willbchang-book/prose - GitHub](https://gh-card.dev/repos/willbchang-book/prose.svg)](https://book.willbc.cn/prose)
-
-<!--## Productivity
-[![willbchang-book/the-productive-macos - GitHub](https://gh-card.dev/repos/willbchang-book/the-productive-macos.svg)](https://book.willbc.cn/the-productive-macos) -->
+## 文学
+[![willbchang-book/poetry - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=willbchang-book&repo=poetry)](https://github.com/willbchang/jekyll-theme-willbc)
+[![willbchang-book/prose - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=willbchang-book&repo=prose)](https://github.com/willbchang/jekyll-theme-willbc)
