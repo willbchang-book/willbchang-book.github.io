@@ -1,8 +1,8 @@
 ## 文学
-<a href="https://github.com/willbchang-book/poetry">
+<a href="https://book.willbc.cn/poetry">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=willbchang-book&repo=poetry">
 </a>
-<a href="https://github.com/willbchang-book/prose">
+<a href="https://book.willbc.cn/prose">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=willbchang-book&repo=prose">
 </a>
 
